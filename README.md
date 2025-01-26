@@ -87,7 +87,7 @@ ALPHAVANTAGE_API_KEY = "your_alphavantage_key"
 
 3. Run the analysis:
 ```bash
-python main.py
+python stock_market_api.py
 ```
 
 ## 🎯 Analysis Rules
